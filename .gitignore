@@ -1,0 +1,5 @@
+.env
+__pycache__
+obj_seg_env
+obj_seg.zip
+yolo11x-seg.pt
